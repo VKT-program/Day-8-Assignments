@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://previews.123rf.com/images/artshock/artshock1202/artshock120200075/12694190-big-galaxy.jpg");
+    background: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #f6f6f8f8;
+    height: auto;
+    width: auto;
+}
+
+
+.login-box{
+    background-color: black;
+    opacity: 80%;
+    margin: auto;
+    height: 330px;
+    width: 300px;
+    box-sizing: content-box;
+    margin-top: 10%;
+    
+
+}
+
+.inp{
+    width: 250px;
+    height: 30px;
+    background-color: black;
+    border: solid;
+    border-bottom-color: white;
+
+}
+
+h2{
+    color: white;
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: darkgreen;
+    height: 40px;
+    width: 250px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: double;
+    text-transform: uppercase;
+    font-size: 20px;
+
+
+}
